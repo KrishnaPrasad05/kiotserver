@@ -1,0 +1,291 @@
+{
+    "ccr": [
+      {
+        "taskName": "A",
+        "assignTo": "Mugil",
+        "description": "https://docs.google.com/spreadsheets/d/120Z66_weUxnIG1lp-gfJNqsANuUedTCGs9vMT3fbeB0/edit?usp=sharing",
+        "date": "2024-04-09",
+        "time": "11:28:00 am",
+        "priority": "high",
+        "status": "on-progress",
+        "createdAt": "04/09/2024, 12:24:18 PM",
+        "id": 1
+      },
+      {
+        "taskName": "Drive",
+        "assignTo": "Krishna",
+        "description": "https://docs.google.com/spreadsheets/d/120Z66_weUxnIG1lp-gfJNqsANuUedTCGs9vMT3fbeB0/edit?usp=sharing",
+        "date": "2024-04-09",
+        "time": "3:29:00 pm",
+        "priority": "high",
+        "createdAt": "04/09/2024, 3:55:01 PM",
+        "status": "on-progress",
+        "name": "",
+        "id": 2
+      },
+      {
+        "taskName": "Drive call details ",
+        "assignTo": "Krishna",
+        "description": "https://docs.google.com/spreadsheets/d/120Z66_weUxnIG1lp-gfJNqsANuUedTCGs9vMT3fbeB0/edit?usp=sharing",
+        "date": "2024-04-12",
+        "time": "10:29:00 am",
+        "priority": "low",
+        "createdAt": "04/12/2024, 10:31:13 AM",
+        "status": "on-progress",
+        "name": "",
+        "id": 3
+      },
+      {
+        "taskName": "CCR",
+        "assignTo": "Mugil",
+        "description": "https://docs.google.com/spreadsheets/d/120Z66_weUxnIG1lp-gfJNqsANuUedTCGs9vMT3fbeB0/edit?usp=sharing",
+        "date": "2024-04-15",
+        "time": "11:30:00 am",
+        "priority": "high",
+        "createdAt": "04/16/2024, 5:37:17 AM",
+        "status": "resolved",
+        "name": "",
+        "id": 4
+      },
+      {
+        "taskName": "CCR",
+        "assignTo": "Mugil",
+        "description": "https://docs.google.com/spreadsheets/d/120Z66_weUxnIG1lp-gfJNqsANuUedTCGs9vMT3fbeB0/edit?usp=sharing",
+        "date": "2024-04-16",
+        "time": "3:00:00 pm",
+        "priority": "high",
+        "status": "Pending",
+        "createdAt": "04/16/2024, 9:39:56 AM",
+        "id": 5
+      },
+      {
+        "taskName": "CCR",
+        "assignTo": "Mugil",
+        "description": "https://docs.google.com/spreadsheets/d/120Z66_weUxnIG1lp-gfJNqsANuUedTCGs9vMT3fbeB0/edit?usp=sharing",
+        "date": "2024-04-16",
+        "time": "1:32:00 pm",
+        "priority": "high",
+        "createdAt": "04/16/2024, 1:50:20 PM",
+        "status": "Pending",
+        "id": 6
+      }
+    ],
+    "faculty": [
+      {
+        "name": "Mugil",
+        "department": "Cse",
+        "mob": "4",
+        "mailid": "Mugi@gmail.com",
+        "username": "Mugi@123",
+        "password": "Mugi@123",
+        "profImg": "https://tse3.mm.bing.net/th?id=OIP.iOJ3d7QnoKo7X0GrBQf97gAAAA&pid=Api&P=0&h=180",
+        "id": "1234"
+      },
+      {
+        "name": "Krishna",
+        "department": "Eee",
+        "role": "Student ",
+        "mob": "81818181811",
+        "mailid": "kp@gmail.com",
+        "username": "Kp@123",
+        "password": "Kp@123",
+        "profImg": "https://tse4.mm.bing.net/th?id=OIP.oEhrPXrjJwCpR9HAEjq1JAHaJd&pid=Api&P=0&h=180",
+        "id": "b32e"
+      },
+      {
+        "name": "Kaalijoothi",
+        "department": "English",
+        "mob": "4",
+        "role": "Manager-Corporate Relations",
+        "mailid": "placementcell@kiot.ac.in",
+        "username": "Kaalijoothi@123",
+        "password": "Kaalijoothi@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2022/06/S.J.Kaalijoothi.jpg",
+        "id": "8ca4"
+      },
+      {
+        "name": "Rajesh",
+        "department": "CSE",
+        "role": "Manager-Industry Relations",
+        "mob": "4gfthggf",
+        "mailid": "po.cse@kiot.ac.in",
+        "username": "Rajesh@123",
+        "password": "Rajesh@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2022/05/Fac_CSE03-1.jpg",
+        "id": "8ca5"
+      },
+      {
+        "name": "Suresh Balaji",
+        "department": "MECH",
+        "mob": "4",
+        "role": "Placement Coordinator / MECH",
+        "mailid": "po.mech@kiot.ac.in",
+        "username": "Suresh@123",
+        "password": "Suresh@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2022/05/ssb_Sureshbalaji-scaled-e1646035554117-150x150-1.jpg",
+        "id": "8ca6"
+      },
+      {
+        "name": "Vigneshwaran",
+        "department": "ECE",
+        "mob": "4",
+        "role": "Placement Coordinator / ECE",
+        "mailid": "po.ece@kiot.ac.in",
+        "username": "Vigneshwaran@123",
+        "password": "Vigneshwaran@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2022/06/N.Vigneshwaran.jpg",
+        "id": "8ca7"
+      },
+      {
+        "name": "Dhinesh",
+        "department": "EEE",
+        "mob": "4",
+        "role": "Placement Coordinator / EEE",
+        "mailid": "po.eee@kiot.ac.in",
+        "username": "Dhinesh@123",
+        "password": "Dhinesh@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2022/05/Dhinesh-copy.jpg",
+        "id": "8ca8"
+      },
+      {
+        "name": "Elavarasan",
+        "department": "CIVIL",
+        "mob": "4",
+        "role": "Placement Coordinator / CIVIL",
+        "mailid": "po.civil@kiot.ac.in",
+        "username": "Elavarasan@123",
+        "password": "Elavarasan@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2022/06/R.Elavarasan.jpg",
+        "id": "8ca9"
+      },
+      {
+        "name": "Ranjith Kumar",
+        "department": "CSBS",
+        "mob": "4",
+        "role": "Placement Coordinator / CSBS",
+        "mailid": "po.csbs@kiot.ac.in",
+        "username": "Ranjith@123",
+        "password": "Ranjith@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2023/07/M.Ranjith-Kumar.jpg",
+        "id": "8cz9"
+      },
+      {
+        "name": "Sivaraman",
+        "department": "IT",
+        "mob": "4",
+        "role": "Placement Coordinator / IT",
+        "mailid": "po.it@kiot.ac.in",
+        "username": "Sivaraman@123",
+        "password": "Sivaraman@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2023/07/S.Sivaraman.jpg",
+        "id": "8cz8"
+      },
+      {
+        "name": "Musthaffa",
+        "department": "MBA",
+        "mob": "4",
+        "role": "Placement Coordinator / MBA",
+        "mailid": "po.mba@kiot.ac.in",
+        "username": "Musthaffa@123",
+        "password": "Musthaffa@123",
+        "profImg": "https://kiot.ac.in/wp-content/uploads/2023/07/MUsthaffa_web-150x200-1.jpg",
+        "id": "8cz7"
+      }
+    ],
+    "tasks": [
+      {
+        "taskName": "Iycgic",
+        "assignTo": "Kvchoc",
+        "description": "Kgckhcgkc",
+        "date": "2024-04-18",
+        "time": "1:36:00 pm",
+        "priority": "lowdfv",
+        "id": "ea8e"
+      },
+      {
+        "id": "b5a0",
+        "taskName": "Drive related",
+        "assignTo": "Krishna",
+        "description": "Gather everyone at E block seminar hall ",
+        "date": "2024-04-04",
+        "time": "13:24:00",
+        "priority": "high",
+        "createdAt": "04/04/2024, 1:46:41 PM",
+        "status": "on-progress"
+      },
+      {
+        "id": "ca81",
+        "taskName": "Training related ",
+        "assignTo": "Krishna",
+        "description": "Aptitude training ",
+        "date": "2024-04-04",
+        "time": "13:24:00",
+        "priority": "high",
+        "createdAt": "04/04/2024, 1:49:51 PM",
+        "status": "later"
+      },
+      {
+        "id": "a01e",
+        "taskName": "Drive ",
+        "assignTo": "Krishna",
+        "description": "Complete the feedback ",
+        "date": "2024-04-06",
+        "time": "12:07:00",
+        "priority": "medium",
+        "createdAt": "04/05/2024, 12:26:11 PM",
+        "status": "resolved",
+        "name": ""
+      },
+      {
+        "id": "cce3",
+        "taskName": "Drive related",
+        "assignTo": "Mugil, Krishna, Sunil",
+        "description": "Complete soon",
+        "date": "2024-04-05",
+        "time": "10:53:00 pm",
+        "priority": "low",
+        "createdAt": "04/05/2024, 11:03:58 PM",
+        "status": "Pending",
+        "name": ""
+      },
+      {
+        "taskName": "Placement Time sheet preparation",
+        "assignTo": "Mugil",
+        "description": "Arrange all placement details for academic year 2023 - 2024",
+        "date": "2024-04-15",
+        "time": "12:00:00 pm",
+        "priority": "high",
+        "createdAt": "04/16/2024, 5:27:39 AM",
+        "status": "resolved",
+        "name": "",
+        "id": "p0KUPpd"
+      },
+      {
+        "taskName": "IAT Exam I",
+        "assignTo": "Mugil",
+        "description": "Publish time table ",
+        "date": "2024-04-16",
+        "time": "12:00:00 pm",
+        "priority": "high",
+        "status": "resolved",
+        "createdAt": "04/16/2024, 9:37:44 AM",
+        "id": "peaUGmh"
+      }
+    ],
+    "compVist": [],
+    "onCamp": [],
+    "offCamp": [],
+    "pooled": [
+      {
+        "taskName": "Pooled Drive",
+        "assignTo": "Mugil",
+        "description": "https://docs.google.com/spreadsheets/d/1y8n02GqFOhhE2kNmqvt827ErQutfLA_r1ZUyQrA6EH8/edit?usp=sharing",
+        "date": "2024-04-15",
+        "time": "5:23:00 am",
+        "priority": "low",
+        "createdAt": "04/16/2024, 5:53:26 AM",
+        "status": "resolved",
+        "id": 1
+      }
+    ]
+  }
